@@ -13,9 +13,9 @@ const P = styled.p`
   color: ${p => p.theme.colors.black};
   font-family: ${p => p.theme.fonts.body};
   font-size: ${p => p.theme.fontSizes.m};
-  padding-top: ${p => p.theme.space[2]}px;
-  padding-bottom: ${p => p.theme.space[2]}px;
-  margin-top: ${p => p.theme.space[4]}px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: ${p => p.theme.space[0]}px;
 `;
 
 const Warning = styled.p`
