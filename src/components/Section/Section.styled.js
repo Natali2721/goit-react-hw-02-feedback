@@ -41,12 +41,15 @@ const Button = styled.button`
   }
   &.good:hover {
     background-color: green;
+    border-color: green;
   }
   &.bad:hover {
     background-color: tomato;
+    border-color: tomato;
   }
   &.neutral:hover {
-    background-color: yellow;
+    background-color: #ffd800;
+    border-color: #ffd800;
   }
 `;
 export { Title, P, Warning, Button };

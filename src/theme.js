@@ -10,7 +10,7 @@ export const theme = {
     muted: '#f6f6f6',
     tomato: 'tomato',
     green: 'green',
-    yellow: 'yellow',
+    yellow: '#ffd800',
   },
   space: [0, 2, 4, 8, 16, 32, 64, 128, 256],
   fonts: {
